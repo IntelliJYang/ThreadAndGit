@@ -14,5 +14,6 @@ public class TestClass {
 
         System.out.println("git版本控制1");
         System.out.println("game branch commit");
+        System.out.println("master final commit");
     }
 }
